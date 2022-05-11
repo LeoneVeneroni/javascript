@@ -1,4 +1,0 @@
-usuário: leoneveneroni
-
-mongodb+srv://leoneveneroni:43046721@cluster0.tcbot.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
-mongodb+srv://leoneveneroni:cripton129140163@cluster0.etfkx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
