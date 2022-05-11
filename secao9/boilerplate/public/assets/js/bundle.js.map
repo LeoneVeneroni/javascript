@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":";;;;;AAAAA,OAAO,CAACC,GAAR,CAAY,qBAAZ;AACAD,OAAO,CAACC,GAAR,CAAY,aAAZ,E","sources":["webpack://boilerplate/./src/index.js"],"sourcesContent":["console.log('Por favor, funciona');\r\nconsole.log('Olá, Brasil');"],"names":["console","log"],"sourceRoot":""}

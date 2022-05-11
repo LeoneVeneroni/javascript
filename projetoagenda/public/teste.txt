@@ -1,0 +1,3 @@
+Texto comum e aleatório.
+
+Para acessar, insira http://localhost:3000/teste.txt na barra de endereços
